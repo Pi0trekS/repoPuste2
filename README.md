@@ -3,3 +3,5 @@ testowy commit
 # wymagania
 pisz by pisać
 kolejny tekst
+coś tam
+
